@@ -1,0 +1,15 @@
+* {
+    direction: rtl;
+}
+
+.left {
+    text-align: left;
+}
+.author {
+    font-size: 14px;
+}
+
+.select {
+    width: 136px;
+    height: 37px;
+}
